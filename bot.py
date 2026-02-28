@@ -8,8 +8,8 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ==================== CONFIGURATION ====================
 BOT_TOKEN = "8766953945:AAG9_B9eHOa3Jt4ekdu6Jcvn13vNrP472Qo"
-API_ID = "YOUR_API_ID"       # <--- Yahan apna API ID dalo
-API_HASH = "YOUR_API_HASH"   # <--- Yahan apna API HASH dalo
+API_ID = "25933223"       # <--- Yahan apna API ID dalo
+API_HASH = "6ef5a426d85b7f01562a41e6416791d3"   # <--- Yahan apna API HASH dalo
 
 # Pinnacle Config
 PIN_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NWI0MmJjNzQwZGFkMjQzN2I1NzhlYiIsInJvbGUiOiJzdHVkZW50IiwiaXAiOiIxNTIuNTkuMTguMTM4IiwiZGV2aWNlIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiaWF0IjoxNzcyMjY2NTU3LCJleHAiOjE4MzUzMzg1NTd9.vBUp5SWekeBxGy-oIqslR2IRzTpfXxcUqcojVyr5boM"
@@ -112,3 +112,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
